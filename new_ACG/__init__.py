@@ -28,6 +28,7 @@ async def ACG(session:CommandSession):
             if j["date"]==data+"-"+day:
                 ACG=j["seasons"]
                 break
+        src=''
         for i in ACG:
             title=i['title']
             if re.search("僅限台灣地區",title) or re.search("僅限港澳台地區",title):
