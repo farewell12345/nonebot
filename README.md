@@ -1,4 +1,4 @@
-# Farewell's nonebot
+# PrayBursa's nonebot
 
 本人开发的一个整活机器人
 
